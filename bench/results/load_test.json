@@ -1,0 +1,86 @@
+{
+  "n": 1500,
+  "concurrency": 32,
+  "results": [
+    {
+      "scenario": "sem cache (só single-flight)",
+      "requests": 1500,
+      "errors": 0,
+      "throughput_rps": 212.8,
+      "p50_ms": 149.8,
+      "p95_ms": 210.4,
+      "p99_ms": 631.1,
+      "layers": {
+        "none": 874,
+        "coalesced": 626
+      },
+      "cost_usd": 0.028587,
+      "wrong_semantic_served": 0
+    },
+    {
+      "scenario": "cache exato",
+      "requests": 1500,
+      "errors": 0,
+      "throughput_rps": 283.4,
+      "p50_ms": 72.2,
+      "p95_ms": 293.8,
+      "p99_ms": 564.6,
+      "layers": {
+        "none": 169,
+        "coalesced": 57,
+        "exact": 1274
+      },
+      "cost_usd": 0.00844,
+      "wrong_semantic_served": 0
+    },
+    {
+      "scenario": "exato + semântico (+verificador)",
+      "requests": 1500,
+      "errors": 0,
+      "throughput_rps": 259.7,
+      "p50_ms": 85.7,
+      "p95_ms": 330.4,
+      "p99_ms": 500.2,
+      "layers": {
+        "none": 74,
+        "coalesced": 25,
+        "exact": 1044,
+        "semantic": 357
+      },
+      "cost_usd": 0.004098,
+      "wrong_semantic_served": 0
+    },
+    {
+      "scenario": "exato + semântico, SEM verificador",
+      "requests": 1500,
+      "errors": 0,
+      "throughput_rps": 254.8,
+      "p50_ms": 89.9,
+      "p95_ms": 322.3,
+      "p99_ms": 482.8,
+      "layers": {
+        "none": 73,
+        "coalesced": 24,
+        "exact": 1021,
+        "semantic": 382
+      },
+      "cost_usd": 0.002896,
+      "wrong_semantic_served": 6
+    },
+    {
+      "scenario": "sem cache, primário com 30% de falha (chaos)",
+      "requests": 1500,
+      "errors": 0,
+      "throughput_rps": 148.9,
+      "p50_ms": 168.6,
+      "p95_ms": 449.9,
+      "p99_ms": 637.2,
+      "layers": {
+        "none": 878,
+        "coalesced": 622
+      },
+      "cost_usd": 0.028349,
+      "wrong_semantic_served": 0
+    }
+  ]
+}

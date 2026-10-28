@@ -1,0 +1,81 @@
+{"a": "Qual o prazo de reembolso no cartão de crédito?", "b": "qual é o prazo de reembolso no cartão de crédito", "equivalent": true, "kind": "light"}
+{"a": "Como cancelo meu pedido?", "b": "Por favor, como cancelo meu pedido?", "equivalent": true, "kind": "light"}
+{"a": "Qual o horário de funcionamento da loja?", "b": "Qual o horário de funcionamento da loja, obrigado!", "equivalent": true, "kind": "light"}
+{"a": "Quero alterar o endereço de entrega", "b": "Quero alterar o endereço de entrega.", "equivalent": true, "kind": "light"}
+{"a": "Como redefinir minha senha?", "b": "como redefinir a minha senha", "equivalent": true, "kind": "light"}
+{"a": "Quais formas de pagamento vocês aceitam?", "b": "Quais as formas de pagamento que vocês aceitam?", "equivalent": true, "kind": "light"}
+{"a": "Meu pedido está atrasado, o que fazer?", "b": "Meu pedido está atrasado, o que eu faço?", "equivalent": true, "kind": "light"}
+{"a": "Como usar um cupom de desconto?", "b": "Como eu uso um cupom de desconto?", "equivalent": true, "kind": "light"}
+{"a": "Posso pagar com Pix?", "b": "Posso pagar com pix??", "equivalent": true, "kind": "light"}
+{"a": "Onde vejo o status do meu pedido?", "b": "Onde eu vejo o status do pedido?", "equivalent": true, "kind": "light"}
+{"a": "Como excluir minha conta?", "b": "Como faço para excluir minha conta?", "equivalent": true, "kind": "light"}
+{"a": "Qual o valor da taxa de entrega?", "b": "Qual é o valor da taxa de entrega?", "equivalent": true, "kind": "light"}
+{"a": "Como falar com o suporte?", "b": "Como eu falo com o suporte?", "equivalent": true, "kind": "light"}
+{"a": "O restaurante cancelou meu pedido, e agora?", "b": "O restaurante cancelou o meu pedido e agora?", "equivalent": true, "kind": "light"}
+{"a": "Vocês entregam no domingo?", "b": "Vocês entregam aos domingos?", "equivalent": true, "kind": "light"}
+{"a": "Preciso de nota fiscal do pedido", "b": "Preciso da nota fiscal do pedido", "equivalent": true, "kind": "light"}
+{"a": "Como adiciono gorjeta para o entregador?", "b": "Como adicionar gorjeta ao entregador?", "equivalent": true, "kind": "light"}
+{"a": "Como atualizo meu telefone cadastrado?", "b": "Como atualizar meu telefone cadastrado?", "equivalent": true, "kind": "light"}
+{"a": "Dá para agendar um pedido?", "b": "Dá pra agendar um pedido?", "equivalent": true, "kind": "light"}
+{"a": "Qual o pedido mínimo para usar cupom?", "b": "Qual é o pedido mínimo pra usar cupom?", "equivalent": true, "kind": "light"}
+{"a": "Qual o prazo de reembolso no cartão de crédito?", "b": "Em quantos dias recebo o estorno na fatura?", "equivalent": true, "kind": "heavy"}
+{"a": "Como cancelo meu pedido?", "b": "Quero desistir da compra que acabei de fazer", "equivalent": true, "kind": "heavy"}
+{"a": "Meu pedido está atrasado, o que fazer?", "b": "A comida ainda não chegou e já passou do horário combinado", "equivalent": true, "kind": "heavy"}
+{"a": "Como excluir minha conta?", "b": "Quero apagar todos os meus dados do aplicativo", "equivalent": true, "kind": "heavy"}
+{"a": "Posso pagar com Pix?", "b": "Aceita transferência instantânea do banco?", "equivalent": true, "kind": "heavy"}
+{"a": "Como falar com o suporte?", "b": "Preciso conversar com um atendente humano", "equivalent": true, "kind": "heavy"}
+{"a": "Como redefinir minha senha?", "b": "Esqueci o acesso, como entro de novo na conta?", "equivalent": true, "kind": "heavy"}
+{"a": "Qual o valor da taxa de entrega?", "b": "Quanto custa para entregar na minha casa?", "equivalent": true, "kind": "heavy"}
+{"a": "Vocês entregam no domingo?", "b": "Tem atendimento nos finais de semana?", "equivalent": true, "kind": "heavy"}
+{"a": "Como usar um cupom de desconto?", "b": "Onde coloco o código promocional?", "equivalent": true, "kind": "heavy"}
+{"a": "O restaurante cancelou meu pedido, e agora?", "b": "A loja desistiu do meu pedido, o que acontece?", "equivalent": true, "kind": "heavy"}
+{"a": "Preciso de nota fiscal do pedido", "b": "Como emito o comprovante fiscal da minha compra?", "equivalent": true, "kind": "heavy"}
+{"a": "Como adiciono gorjeta para o entregador?", "b": "Quero dar um dinheiro extra ao motoboy", "equivalent": true, "kind": "heavy"}
+{"a": "Dá para agendar um pedido?", "b": "Consigo escolher a hora em que a comida chega?", "equivalent": true, "kind": "heavy"}
+{"a": "Onde vejo o status do meu pedido?", "b": "Como acompanho a entrega em tempo real?", "equivalent": true, "kind": "heavy"}
+{"a": "Como atualizo meu telefone cadastrado?", "b": "Mudei de número, onde troco no perfil?", "equivalent": true, "kind": "heavy"}
+{"a": "Quais formas de pagamento vocês aceitam?", "b": "Dá para pagar com vale-refeição ou só cartão?", "equivalent": true, "kind": "heavy"}
+{"a": "Quero alterar o endereço de entrega", "b": "Coloquei o endereço errado, posso mudar?", "equivalent": true, "kind": "heavy"}
+{"a": "Qual o horário de funcionamento da loja?", "b": "Até que horas vocês ficam abertos?", "equivalent": true, "kind": "heavy"}
+{"a": "Qual o pedido mínimo para usar cupom?", "b": "Preciso gastar quanto para o desconto valer?", "equivalent": true, "kind": "heavy"}
+{"a": "Qual o prazo de reembolso no cartão de crédito?", "b": "Qual o prazo de reembolso no Pix?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o prazo de reembolso no cartão de crédito?", "b": "Qual o prazo de reembolso em créditos do app?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como cancelo meu pedido?", "b": "Como cancelo meu pedido agendado?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como cancelo meu pedido?", "b": "Como não cancelo meu pedido?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso pagar com Pix?", "b": "Posso pagar com cartão de débito?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso pagar com Pix?", "b": "Posso pagar em dinheiro?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O cupom vale por 7 dias", "b": "O cupom vale por 30 dias", "equivalent": false, "kind": "hard_negative"}
+{"a": "Atraso de mais de 45 minutos dá direito a cupom?", "b": "Atraso de mais de 90 minutos dá direito a cancelamento?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como redefinir minha senha?", "b": "Como redefinir meu e-mail?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como excluir minha conta?", "b": "Como criar minha conta?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Quero alterar o endereço de entrega", "b": "Quero alterar o endereço de cobrança", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual a taxa de entrega para o bairro Centro?", "b": "Qual a taxa de entrega para o bairro Boa Viagem?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o horário de funcionamento da loja de sábado?", "b": "Qual o horário de funcionamento da loja de domingo?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como aplico o cupom BEMVINDO10?", "b": "Como aplico o cupom FRETEGRATIS?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Meu pedido FF-1001 está atrasado", "b": "Meu pedido FF-1002 está atrasado", "equivalent": false, "kind": "hard_negative"}
+{"a": "Cancelar o pedido de 2 pizzas", "b": "Cancelar o pedido de 3 pizzas", "equivalent": false, "kind": "hard_negative"}
+{"a": "Tenho alergia a amendoim, o prato tem?", "b": "Tenho alergia a camarão, o prato tem?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso trocar o item do pedido antes de confirmar?", "b": "Posso trocar o item do pedido depois de entregue?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O entregador já saiu do restaurante?", "b": "O entregador já chegou ao meu endereço?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como adiciono gorjeta para o entregador?", "b": "Como removo a gorjeta do entregador?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o pedido mínimo para usar cupom?", "b": "Qual o pedido máximo para usar cupom?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como falar com o suporte por telefone?", "b": "Como falar com o suporte por chat?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Quero reembolso do item faltando", "b": "Quero reembolso do item errado", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como emitir nota fiscal com CPF?", "b": "Como emitir nota fiscal com CNPJ?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O vale-refeição cobre a taxa de entrega?", "b": "O vale-refeição cobre a taxa de serviço?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o limite de caracteres da observação?", "b": "Qual o limite de itens por pedido?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como ativar notificações do app?", "b": "Como desativar notificações do app?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso pedir de dois restaurantes ao mesmo tempo?", "b": "Posso pedir do mesmo restaurante duas vezes?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Quanto tempo leva a análise do reembolso?", "b": "Quanto tempo leva a análise do cadastro?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como mudar o cartão salvo?", "b": "Como remover o cartão salvo?", "equivalent": false, "kind": "hard_negative"}
+{"a": "A entrega é grátis acima de R$ 50?", "b": "A entrega é grátis acima de R$ 80?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como avaliar o restaurante?", "b": "Como avaliar o entregador?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual a política de cancelamento do restaurante?", "b": "Qual a política de cancelamento do cliente?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Meu cupom expirou, posso reativar?", "b": "Meu cupom é válido, posso usar hoje?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O pedido chegou frio, o que faço?", "b": "O pedido chegou quente demais, o que faço?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso pagar na entrega com cartão?", "b": "Posso pagar na entrega com dinheiro?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como compartilho o rastreio com outra pessoa?", "b": "Como altero o rastreio do pedido?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual a validade do cupom de atraso?", "b": "Qual a validade do cupom de boas-vindas?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como pedir sem cebola?", "b": "Como pedir com cebola extra?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O app cobra taxa de serviço em todos os pedidos?", "b": "O restaurante cobra taxa de serviço em todos os pedidos?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como denunciar um problema de higiene no restaurante?", "b": "Como denunciar um problema com o entregador?", "equivalent": false, "kind": "hard_negative"}

@@ -1,0 +1,23 @@
+{"a": "Qual o telefone do restaurante?", "b": "Qual é o telefone do restaurante??", "equivalent": true, "kind": "light"}
+{"a": "Posso pedir sem talher?", "b": "Posso pedir sem talher, por favor?", "equivalent": true, "kind": "light"}
+{"a": "O app funciona no Android?", "b": "O app funciona no android", "equivalent": true, "kind": "light"}
+{"a": "Como ver pedidos antigos?", "b": "Como eu vejo pedidos antigos?", "equivalent": true, "kind": "light"}
+{"a": "Há desconto para estudante?", "b": "Existe desconto para estudante?", "equivalent": true, "kind": "light"}
+{"a": "Entrega para condomínio funciona?", "b": "A entrega para condomínio funciona?", "equivalent": true, "kind": "light"}
+{"a": "Meu reembolso foi aprovado", "b": "Meu reembolso foi aprovado!", "equivalent": true, "kind": "light"}
+{"a": "Quero cancelar a assinatura mensal", "b": "Quero cancelar assinatura mensal", "equivalent": true, "kind": "light"}
+{"a": "Como pedir reembolso de bebida?", "b": "Como pedir reembolso de sobremesa?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso cancelar o pedido de hoje?", "b": "Posso cancelar o pedido de amanhã?", "equivalent": false, "kind": "hard_negative"}
+{"a": "A taxa de serviço é de 5%?", "b": "A taxa de serviço é de 8%?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o telefone do restaurante?", "b": "Qual o telefone do suporte?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como ver pedidos antigos?", "b": "Como ver pedidos futuros?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Entrega para condomínio funciona?", "b": "Entrega para apartamento funciona?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Posso pedir sem talher?", "b": "Posso pedir com talher?", "equivalent": false, "kind": "hard_negative"}
+{"a": "O app funciona no Android?", "b": "O app funciona no iPhone?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Há desconto para estudante?", "b": "Há desconto para idoso?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o prazo para avaliar o pedido?", "b": "Qual o prazo para contestar o pedido?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Meu reembolso foi negado", "b": "Meu reembolso foi aprovado", "equivalent": false, "kind": "hard_negative"}
+{"a": "Como pagar com dois cartões?", "b": "Como pagar com um cartão?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Qual o endereço da loja do Recife?", "b": "Qual o endereço da loja de Olinda?", "equivalent": false, "kind": "hard_negative"}
+{"a": "Preciso trocar a senha do e-mail", "b": "Preciso trocar a senha do app", "equivalent": false, "kind": "hard_negative"}
+{"a": "Quero cancelar a assinatura mensal", "b": "Quero cancelar a assinatura anual", "equivalent": false, "kind": "hard_negative"}

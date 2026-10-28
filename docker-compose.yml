@@ -1,0 +1,21 @@
+services:
+  gateway:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      GATEWAY_CACHE: semantic        # none | exact | semantic
+      SEMANTIC_THRESHOLD: "0.8"
+      GATEWAY_API_KEYS: "dev-key:dev"
+  prometheus:
+    image: prom/prometheus:latest
+    volumes: ["./ops/prometheus.yml:/etc/prometheus/prometheus.yml:ro"]
+    ports: ["9090:9090"]
+    depends_on: [gateway]
+  grafana:
+    image: grafana/grafana:latest
+    ports: ["3000:3000"]
+    environment: {GF_AUTH_ANONYMOUS_ENABLED: "true", GF_AUTH_ANONYMOUS_ORG_ROLE: Viewer}
+    volumes:
+      - ./ops/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./ops/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on: [prometheus]

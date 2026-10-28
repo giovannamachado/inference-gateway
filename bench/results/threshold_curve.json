@@ -1,0 +1,244 @@
+{
+  "n": {
+    "light": 20,
+    "heavy": 20,
+    "hard_negative": 41
+  },
+  "rows": [
+    {
+      "threshold": 0.5,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.878,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.52,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.878,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.54,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.878,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.56,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.829,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.58,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.805,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.6,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.78,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.62,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.732,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.64,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.732,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.66,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.732,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.68,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.707,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.7,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.683,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.72,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.634,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.74,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.488,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.76,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.366,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.78,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.293,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.8,
+      "hit_light": 1.0,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.268,
+      "verified_hit_light": 0.9,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.82,
+      "hit_light": 0.95,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.244,
+      "verified_hit_light": 0.85,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.84,
+      "hit_light": 0.75,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.22,
+      "verified_hit_light": 0.7,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.86,
+      "hit_light": 0.7,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.146,
+      "verified_hit_light": 0.65,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.88,
+      "hit_light": 0.55,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.146,
+      "verified_hit_light": 0.55,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.9,
+      "hit_light": 0.5,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.146,
+      "verified_hit_light": 0.5,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.92,
+      "hit_light": 0.45,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.098,
+      "verified_hit_light": 0.45,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.94,
+      "hit_light": 0.35,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.073,
+      "verified_hit_light": 0.35,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.96,
+      "hit_light": 0.05,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.024,
+      "verified_hit_light": 0.05,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    },
+    {
+      "threshold": 0.98,
+      "hit_light": 0.05,
+      "hit_heavy": 0.0,
+      "false_positive_rate": 0.024,
+      "verified_hit_light": 0.05,
+      "verified_hit_heavy": 0.0,
+      "verified_false_positive_rate": 0.0
+    }
+  ],
+  "verifier_pass_rate": {
+    "light": 0.9,
+    "heavy": 0.0,
+    "hard_negative": 0.0
+  },
+  "mean_similarity": {
+    "light": 0.897,
+    "heavy": 0.13,
+    "hard_negative": 0.719
+  }
+}
