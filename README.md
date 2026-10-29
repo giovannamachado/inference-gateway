@@ -54,3 +54,7 @@ A imagem do gateway foi construída e exercitada via curl (chat + hit semântico
 - Embedder por hashing e verificador lexical não substituem embedding neural + verificador de equivalência.
 - Sem streaming SSE, sem timeout por provedor além do cliente HTTP, preços ilustrativos.
 - Roteador por heurística de regex/tamanho, não por classificador treinado.
+
+## Projetos relacionados
+- [support-agent](https://github.com/giovannamachado/support-agent) — agente RAG com tool-use e avaliação de alucinação
+- [food-review-llm](https://github.com/giovannamachado/food-review-llm) — pipeline de classificação de reviews, baselines e LoRA
